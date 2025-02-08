@@ -141,7 +141,7 @@ const handleGusetClick = async () => {
   return (
     <div
       id="home"
-      className="relative w-full h-screen flex justify-between items-center px-5 md:px-[5%] font-roboto"
+      className="relative w-full h-screen flex justify-between items-center px-6 md:px-[5%] font-roboto"
     >
       {/* Background Overlay */}
       <div
